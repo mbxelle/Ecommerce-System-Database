@@ -23,13 +23,13 @@ Relational database project for an e-commerce system focused on clean schema des
 
 ## Skills — Applied vs. In Progress
 
-### ✅ Currently Applied
+### Currently Applied
 - Relational data modeling (entities, relationships, keys, constraints)
 - **Normalization** to 3NF/BCNF and integrity constraints (PK/FK, NOT NULL, CHECK)
 - SQL DDL/DML, multi-table joins, nested queries, aggregations
 - Query tuning basics (rewrites, selective predicates, avoiding unnecessary work)
 
-### 🚧 In-Progress Learning & Applying
+### In-Progress Learning & Applying
 - **Python-based UI** for CRUD (insert, query, update, delete)
 - Migration scripts & seed data workflow
 - (Planned) Indexing strategy, views/materialized views, and explain/trace-based tuning
